@@ -1,0 +1,26 @@
+$color-primary: #fff;
+$color-secondary: #0377ff;
+$color-primary-invert: #030913;
+$color-title: #fff;
+
+$color-background: #030913;
+$color-background-invert: #fff;
+$color-background-filter-selected: linear-gradient(
+  90deg,
+  rgba(0, 120, 215, 0) 0%,
+  rgba(0, 120, 215, 0.5) 50%,
+  rgba(0, 120, 215, 0) 100%
+);
+$color-background-selected-left: linear-gradient(
+  270deg,
+  rgba(0, 120, 215, 0) 0%,
+  rgba(0, 120, 215, 0) 0.01%,
+  rgba(0, 120, 215, 0.5) 100%
+);
+$color-background-gray: #e5e5e5;
+
+$color-cta: #fdc20f;
+$color-button: #0377ff;
+$color-star: #0377ff;
+$color-blue-gray: #1d6dbf;
+$color-promotion: #3baa15;
